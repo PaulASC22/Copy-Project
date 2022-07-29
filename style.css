@@ -1,0 +1,105 @@
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#logo {
+    height: 55px;
+}
+#anything ul{
+    display: flex;
+    gap: 30px;
+    font-family: Helvetica;
+    font-size: bolder;
+    font-size:medium;
+    text-align: center;
+    padding:1px;
+    align-items: center;
+    
+}
+
+#anything {
+    margin:0px;
+    display: flex;
+    border-bottom: 2px solid rgba(210, 210, 210);
+}
+
+#thing li{
+    list-style-type: none;
+    float: left;
+    
+}
+.white {
+    color: white;
+}
+
+#destination {
+    height: 20px;
+}
+
+#bling li{
+    gap:30px;
+    list-style-type: none;
+    float: right;
+    font-family:sans-serif;
+
+}
+
+.kumala {
+    padding:10px;
+    border:2px solid black;
+    border-radius:50px;
+
+}
+
+.savesta {
+    color: white;
+    background-color: black;
+    padding: 13px;
+    border-radius:50px;
+}
+#nothing ul{
+    font-family:Helvetica;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:1px;
+}
+
+.ching {
+    list-style-type:none;
+}
+
+.greenbeans{
+    background-color: rgb(30, 57, 50);
+    color: white;
+    align-items:center;
+    text-align:center;
+}
+
+#cakepop {
+    width:674x;
+    height:197px;
+    float:left;
+    border:none;
+}
+
+#dos {
+    width:386px;
+    height:335.06px;
+    float:right;
+    border:none;
+}
+
+.gling {
+    list-style-type:none;
+}
+
+.bluebeans {
+    background-color:#FA91AA;
+    color:black;
+    align-items:center;
+    text-align:center;
+    font-size:xx-large;
+}
